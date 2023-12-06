@@ -1,0 +1,31 @@
+
+
+
+.block1 {
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    right: 2rem;
+    padding: 2rem;
+    width: 20rem;
+}
+
+.relative {
+    position: relative;
+}
+
+.sticky {
+    background-color: orange;
+    position: sticky;
+    top:0;
+}
+
+.btn-fixed {
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+
+}
