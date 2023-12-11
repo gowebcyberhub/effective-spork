@@ -1,0 +1,37 @@
+.text-red {
+    color: red;
+}
+
+.text-justify{
+    text-align: justify;
+    
+}
+.text-align-last {
+    text-align-last: justify;
+}
+.text-center {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-align: center;
+}
+
+.text-decor {
+    text-decoration-line: underline overline line-through;
+    text-decoration-color: blueviolet;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+    text-decoration:  underline overline greenyellow double 2px;
+}
+
+.text-transform {
+    text-transform: lowercase;
+}
+
+.text-spaces {
+    text-indent: 40px;
+    letter-spacing: 4px;
+    line-height: 1.5em;
+    word-spacing: 20px;
+    white-space: pre;
+    text-shadow: 2px 2px 2px blueviolet;
+}
